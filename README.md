@@ -1,0 +1,2 @@
+# TypeScriptGreedySnake
+学习TypeScipt写的一个贪吃蛇
